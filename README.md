@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Marco Antonio Campoy Alegria \[05211261]; L21212145@tectijuana.edu.mx
+Marco Antonio Campoy Alegria \[21212145]; L21212145@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
